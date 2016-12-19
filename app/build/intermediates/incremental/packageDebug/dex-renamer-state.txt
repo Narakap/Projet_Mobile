@@ -1,0 +1,7 @@
+#Mon Dec 19 22:15:46 CET 2016
+base.0=/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3219240200cea0c1d904afddd942bbd10862db3f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7518f150374dd4e2d0532fde6192d70e3bfc27d6/classes.dex
+base.1=/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7518f150374dd4e2d0532fde6192d70e3bfc27d6
+file.0=/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3219240200cea0c1d904afddd942bbd10862db3f/classes.dex

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_fc672253134565396b6f8d407bb89b8f9d1bc47b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_aa78e9b1b051b64e4d71e12730629dadbdad5fc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f19def2fb24148896c41d85b26d874e87a9b2135/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c51d278f1a951eea1649049f8aafbff27e6db76d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_a24e7570288bd2ec3652a91036fd5914115d2228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4b5c1da1bdbe82412861319dfc68dbe6f48f48d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ef92f40625e76238d0fae2835bf0208a24d743f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_262c9cb9dec044fb835de889cdb54c43ee5d09f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1585e754df0a9f714b8ae66d7f680c50267b2f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_c8e6fdd47c4038e66b1def7830a3038ce9961969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1cb3c4bc3f029807f80e5d0d5b8a4791b733ce5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_25966ebfdb074d7cb3afb526e3da85e362bc10a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_beab4649c80913371b0411a96a0d718018a7342a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8357a0c1cf1f8d09374b9a58cbfb1a2cc0acbb44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_030d6fd886d1cecb4057057a6e2fd96c9b474043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce31bedc31e4052e0d061a0ee0ebe4792b9f6410">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7518f150374dd4e2d0532fde6192d70e3bfc27d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e0d2381cd93e5936f7cb3de32c529e3ad52dc5f">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3219240200cea0c1d904afddd942bbd10862db3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigue/Downloads/B_app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/rodrigue/Downloads/B_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_69b32d7074ace06027720cb9c6eca4f2844775b7/classes.dex" />
+    </item>
+
+</items>

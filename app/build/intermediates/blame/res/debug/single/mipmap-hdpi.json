@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rodrigue/Downloads/B_app/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/rodrigue/Downloads/B_app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rodrigue/Downloads/Projet Mobile/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/rodrigue/Downloads/Projet Mobile/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
